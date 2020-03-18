@@ -8,7 +8,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==1.11.26
+Django==1.11.28
 django-autocomplete-light==3.5.1
 django-ckeditor==5.4.0
 django-crispy-forms==1.8.1
