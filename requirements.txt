@@ -43,7 +43,7 @@ Django==2.1.4
 django-autocomplete-light==3.5.1
 django-ckeditor==5.9.0
 django-crispy-forms==1.9.0
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-formtools==2.2
 django-import-export==2.0.2
 django-js-asset==1.2.2
@@ -96,7 +96,7 @@ Django==2.1.4
 django-autocomplete-light==3.5.1
 django-ckeditor==5.9.0
 django-crispy-forms==1.9.0
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-formtools==2.2
 django-import-export==2.0.2
 django-js-asset==1.2.2
