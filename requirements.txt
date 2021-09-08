@@ -13,7 +13,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 odfpy==1.4.1
 openpyxl==3.0.3
-Pillow==7.1.2
+Pillow==8.3.2
 PyMySQL==0.9.3
 pytz==2020.1
 PyYAML==5.3.1
@@ -66,7 +66,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 odfpy==1.4.1
 openpyxl==3.0.3
-Pillow==7.1.2
+Pillow==8.3.2
 PyMySQL==0.9.3
 pytz==2020.1
 PyYAML==5.3.1
@@ -122,7 +122,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 odfpy==1.4.1
 openpyxl==3.0.3
-Pillow==7.1.2
+Pillow==8.3.2
 pkg-resources==0.0.0
 PyMySQL==0.9.3
 pytz==2020.1
